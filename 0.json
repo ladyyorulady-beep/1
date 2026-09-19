@@ -182,6 +182,18 @@
         "name": "Realm Watcher",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Aldous_%28Realm_Watcher%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211214153755",
         "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/aldous-realm-watcher-optimized.zip"
+      },
+      {
+        "skin_id": 12,
+        "name": "Jett",
+        "image": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/IMG/aldous-big-jett.jpg",
+        "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/aldous-big-jett.zip"
+      },
+      {
+        "skin_id": 13,
+        "name": "Jett",
+        "image": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/IMG/aldous-big-jett.jpg",
+        "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/aldous-big-jett.zip"
       }
     ]
   },
@@ -312,6 +324,18 @@
         "name": "Revenant of Roses",
         "image": "https://liquipedia.net/commons/images/thumb/b/b9/Alpha_Revenant_of_Roses_Skin.jpg/475px-Alpha_Revenant_of_Roses_Skin.jpg",
         "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.12/SKIN_UPDATED/alpha-revenant-roses.zip"
+      },
+      {
+        "skin_id": 11,
+        "name": "Homelander",
+        "image": "https://raw.githubusercontent.com/RyuDevGFX/updated-skin-v2/main/IMG/argus-homelander.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/alpha-homelander.zip"
+      },
+      {
+        "skin_id": 12,
+        "name": "Homelander",
+        "image": "https://raw.githubusercontent.com/RyuDevGFX/updated-skin-v2/main/IMG/argus-homelander.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/alpha-homelander.zip"
       }
     ]
   },
@@ -386,6 +410,18 @@
         "name": "Demon's Bane",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Alucard_%28Demon%27s_Bane%29.jpg/revision/latest/scale-to-width-down/1000?cb=20250406080052",
         "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.3/Upcoming%20Skins/Alucard-demons-bane.zip"
+      },
+      {
+        "skin_id": 12,
+        "name": "Finn",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/alu-fin.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/alucard-finn.zip"
+      },
+      {
+        "skin_id": 13,
+        "name": "Finn",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/alu-fin.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/alucard-finn.zip"
       }
     ]
   },
@@ -516,6 +552,30 @@
         "name": "Blade of Rakshasa",
         "image": "https://raw.githubusercontent.com/RyuDevGFX/updated-skin-v2/main/IMG/argus-blade-of-rakshasa.jpg",
         "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/argus-blade-rakshasha.zip"
+      },
+      {
+        "skin_id": 9,
+        "name": "Toji Fushiguro",
+        "image": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/ANIME_SKINS/IMG_20260425_215248.jpg",
+        "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/ANIME_SKINS/argus-toji-fuji.zip"
+      },
+      {
+        "skin_id": 10,
+        "name": "Steve Minecraft",
+        "image": "https://raw.githubusercontent.com/RyuDevGFX/UpdatedSkins/main/IMG_20260512_104438.jpg",
+        "download_url": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/argus-x-steve.zip"
+      },
+      {
+        "skin_id": 11,
+        "name": "Toji Fushiguro",
+        "image": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/ANIME_SKINS/IMG_20260425_215248.jpg",
+        "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/ANIME_SKINS/argus-toji-fuji.zip"
+      },
+      {
+        "skin_id": 12,
+        "name": "Steve Minecraft",
+        "image": "https://raw.githubusercontent.com/RyuDevGFX/UpdatedSkins/main/IMG_20260512_104438.jpg",
+        "download_url": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/argus-x-steve.zip"
       }
     ]
   },
@@ -804,6 +864,18 @@
         "name": "Razor Edge",
         "image": "https://liquipedia.net/commons/images/thumb/3/33/Balmond_Razor_Edge_Skin.jpg/475px-Balmond_Razor_Edge_Skin.jpg",
         "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/balmond-collector-titans.zip"
+      },
+      {
+        "skin_id": 11,
+        "name": "Big Smoke",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/paquito-bigsmoke.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/balmond-bigsmoke.zip"
+      },
+      {
+        "skin_id": 12,
+        "name": "Big Smoke",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/paquito-bigsmoke.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/balmond-bigsmoke.zip"
       }
     ]
   },
@@ -1514,6 +1586,66 @@
         "name": "ECHO",
         "image": "https://liquipedia.net/commons/images/thumb/a/af/Chou_Echo.jpg/475px-Chou_Echo.jpg",
         "download_url": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20CHAMPION%20-%20echo%20PH.zip"
+      },
+      {
+        "skin_id": 13,
+        "name": "Ken Masters 2",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/chou-ken-outfit-2.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-ken-outfit-2.zip"
+      },
+      {
+        "skin_id": 14,
+        "name": "Ken Masters 1",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/ken-outfit-1.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-ken-outfit-1.zip"
+      },
+      {
+        "skin_id": 103,
+        "name": "Michael Jackson",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-mj.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-mj.zip"
+      },
+      {
+        "skin_id": 104,
+        "name": "Michael Jackson V2",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/chou-mj-v2.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-mj-v2.zip"
+      },
+      {
+        "skin_id": 101,
+        "name": "Angela Summer",
+        "image": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/IMG/chou-summer-angela.jpg",
+        "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/chou-angela-summer.zip"
+      },
+      {
+        "skin_id": 102,
+        "name": "MCDO",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/chou-mcdo.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-mcdo.zip"
+      },
+      {
+        "skin_id": 105,
+        "name": "Michael Jackson",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-mj.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-mj.zip"
+      },
+      {
+        "skin_id": 106,
+        "name": "Michael Jackson V2",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/chou-mj-v2.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-mj-v2.zip"
+      },
+      {
+        "skin_id": 107,
+        "name": "Angela Summer",
+        "image": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/IMG/chou-summer-angela.jpg",
+        "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/chou-angela-summer.zip"
+      },
+      {
+        "skin_id": 108,
+        "name": "MCDO",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/chou-mcdo.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/chou-mcdo.zip"
       }
     ]
   },
@@ -1868,6 +2000,18 @@
         "name": "Gon",
         "image": "https://liquipedia.net/commons/images/thumb/1/1f/Dyrroth_Gon_Skin.jpg/475px-Dyrroth_Gon_Skin.jpg",
         "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Upcoming%20Skin/dyroth-gon.zip"
+      },
+      {
+        "skin_id": 8,
+        "name": "Guile",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/dyroth-guile-outfit-1.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/dyroth-guile-outfit-1.zip"
+      },
+      {
+        "skin_id": 9,
+        "name": "Guile",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/dyroth%2Bguile-outfit-2.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/dyroth-guile-outfit-2.zip"
       }
     ]
   },
@@ -2842,6 +2986,18 @@
         "name": "Twilight Star",
         "image": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/UPDATED_LANDSCAPE_IMAGE/Guinn-Twilight-Star.jpg",
         "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/guinevere-twilight-star.zip"
+      },
+      {
+        "skin_id": 12,
+        "name": "Chun Li 1",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/guin-chun-li-outfit-1.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/guin-chun-li-outfit-1.zip"
+      },
+      {
+        "skin_id": 11,
+        "name": "Chun Li 2",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/guin-chun-li-outfit-2.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/guin-chunli-outfit-2.zip"
       }
     ]
   },
@@ -4106,6 +4262,18 @@
         "name": "Curse Scroll",
         "image": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/UPDATED_LANDSCAPE_IMAGE/Khufra-Curse-Scroll.jpg",
         "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/Khufra%20cursed.zip"
+      },
+      {
+        "skin_id": 9,
+        "name": "Jake",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/khufra-jake.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/khufra-jake.zip"
+      },
+      {
+        "skin_id": 10,
+        "name": "Jake",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/khufra-jake.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/khufra-jake.zip"
       }
     ]
   },
@@ -5790,6 +5958,42 @@
         "name": "Demon Tech Striker",
         "image": "https://via.placeholder.com/475x270.png?text=New+Skin",
         "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/paquito-demontech-striker.zip"
+      },
+      {
+        "skin_id": 11,
+        "name": "Ryu 1",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/paquito-ryu-oufit-1.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/paquito-ryu-outfit-1.zip"
+      },
+      {
+        "skin_id": 12,
+        "name": "Ryu 2",
+        "image": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/IMG/paquito-ryu-outfit-2.jpg",
+        "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/paquito-ryu-outfit-2.zip"
+      },
+      {
+        "skin_id": 13,
+        "name": "Jollibee",
+        "image": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/IMG/jollibee.jpg",
+        "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/paquito-jollibee.zip"
+      },
+      {
+        "skin_id": 14,
+        "name": "GTA CJ",
+        "image": "https://raw.githubusercontent.com/RyuDevGFX/UpdatedSkins/main/IMG_20260504_173311.jpg",
+        "download_url": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/paquito-to-cj-GTA.zip"
+      },
+      {
+        "skin_id": 15,
+        "name": "Jollibee",
+        "image": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/IMG/jollibee.jpg",
+        "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/WEIRD_SKIN/paquito-jollibee.zip"
+      },
+      {
+        "skin_id": 16,
+        "name": "GTA CJ",
+        "image": "https://raw.githubusercontent.com/RyuDevGFX/UpdatedSkins/main/IMG_20260504_173311.jpg",
+        "download_url": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/paquito-to-cj-GTA.zip"
       }
     ]
   },
