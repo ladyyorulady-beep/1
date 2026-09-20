@@ -201,7 +201,7 @@
     "hero_id": 4,
     "name": "Alice",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Alice.png",
-    "role": "Tank Mage",
+    "role": "Tank",
     "skins": [
       {
         "skin_id": 1,
@@ -343,7 +343,7 @@
     "hero_id": 6,
     "name": "Alucard",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Alucard.png",
-    "role": "Fighter Assassin",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -583,7 +583,7 @@
     "hero_id": 9,
     "name": "Arlott",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Arlott.png",
-    "role": "Fighter Assassin",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -883,7 +883,7 @@
     "hero_id": 15,
     "name": "Bane",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Bane.png",
-    "role": "Fighter Mage",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -933,7 +933,7 @@
     "hero_id": 16,
     "name": "Barats",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Barats.png",
-    "role": "Tank Fighter",
+    "role": "Tank",
     "skins": [
       {
         "skin_id": 1,
@@ -1139,7 +1139,7 @@
     "hero_id": 20,
     "name": "Benedetta",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Benedetta.png",
-    "role": "Assassin Fighter",
+    "role": "Assassin",
     "skins": [
       {
         "skin_id": 1,
@@ -1325,7 +1325,7 @@
     "hero_id": 23,
     "name": "Carmilla",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Carmilla.png",
-    "role": "Support Tank",
+    "role": "Support",
     "skins": [
       {
         "skin_id": 1,
@@ -1487,7 +1487,7 @@
     "hero_id": 26,
     "name": "Chip",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Chip.png",
-    "role": "Support Tank",
+    "role": "Support",
     "skins": [
       {
         "skin_id": 1,
@@ -2019,7 +2019,7 @@
     "hero_id": 34,
     "name": "Edith",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Edith.png",
-    "role": "Tank Marksman",
+    "role": "Tank",
     "skins": [
       {
         "skin_id": 1,
@@ -2069,7 +2069,7 @@
     "hero_id": 35,
     "name": "Esmeralda",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Esmeralda.png",
-    "role": "Tank Mage",
+    "role": "Tank",
     "skins": [
       {
         "skin_id": 1,
@@ -2347,7 +2347,7 @@
     "hero_id": 39,
     "name": "Faramis",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Faramis.png",
-    "role": "Support Mage",
+    "role": "Support",
     "skins": [
       {
         "skin_id": 1,
@@ -2515,7 +2515,7 @@
     "hero_id": 42,
     "name": "Fredrinn",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Fredrinn.png",
-    "role": "Fighter Tank",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -2633,7 +2633,7 @@
     "hero_id": 44,
     "name": "Gatotkaca",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Gatotkaca.png",
-    "role": "Tank Fighter",
+    "role": "Tank",
     "skins": [
       {
         "skin_id": 1,
@@ -2863,7 +2863,7 @@
     "hero_id": 48,
     "name": "Grock",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Grock.png",
-    "role": "Tank Fighter",
+    "role": "Tank",
     "skins": [
       {
         "skin_id": 1,
@@ -3277,7 +3277,7 @@
     "hero_id": 54,
     "name": "Harley",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Harley.png",
-    "role": "Assassin Mage",
+    "role": "Assassin",
     "skins": [
       {
         "skin_id": 1,
@@ -3463,7 +3463,7 @@
     "hero_id": 57,
     "name": "Hilda",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Hilda.png",
-    "role": "Fighter Tank",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -3701,7 +3701,7 @@
     "hero_id": 62,
     "name": "Johnson",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Johnson.png",
-    "role": "Tank Support",
+    "role": "Tank",
     "skins": [
       {
         "skin_id": 1,
@@ -3807,7 +3807,7 @@
     "hero_id": 64,
     "name": "Julian",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Julian.png",
-    "role": "Assassin Fighter",
+    "role": "Assassin",
     "skins": [
       {
         "skin_id": 1,
@@ -3851,7 +3851,7 @@
     "hero_id": 65,
     "name": "Kadita",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Kadita.png",
-    "role": "Mage Assassin",
+    "role": "Mage",
     "skins": [
       {
         "skin_id": 1,
@@ -3969,7 +3969,7 @@
     "hero_id": 67,
     "name": "Kaja",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Kaja.png",
-    "role": "Support Fighter",
+    "role": "Support",
     "skins": [
       {
         "skin_id": 1,
@@ -4019,7 +4019,7 @@
     "hero_id": 68,
     "name": "Kalea",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Kalea.png",
-    "role": "Support Fighter",
+    "role": "Support",
     "skins": [
       {
         "skin_id": 1,
@@ -4281,7 +4281,7 @@
     "hero_id": 73,
     "name": "Kimmy",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Kimmy.png",
-    "role": "Marksman Mage",
+    "role": "Marksman",
     "skins": [
       {
         "skin_id": 1,
@@ -4633,7 +4633,7 @@
     "hero_id": 78,
     "name": "Lesley",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Lesley.png",
-    "role": "Marksman Assassin",
+    "role": "Marksman",
     "skins": [
       {
         "skin_id": 1,
@@ -4799,7 +4799,7 @@
     "hero_id": 80,
     "name": "Lolita",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Lolita.png",
-    "role": "Support Tank",
+    "role": "Support",
     "skins": [
       {
         "skin_id": 1,
@@ -5155,7 +5155,7 @@
     "hero_id": 87,
     "name": "Masha",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Masha.png",
-    "role": "Fighter Tank",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -5205,7 +5205,7 @@
     "hero_id": 88,
     "name": "Mathilda",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Mathilda.png",
-    "role": "Support Assassin",
+    "role": "Support",
     "skins": [
       {
         "skin_id": 1,
@@ -5287,7 +5287,7 @@
     "hero_id": 90,
     "name": "Minotaur",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Minotaur.png",
-    "role": "Tank Support",
+    "role": "Tank",
     "skins": [
       {
         "skin_id": 1,
@@ -5897,7 +5897,7 @@
     "hero_id": 101,
     "name": "Paquito",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Paquito.png",
-    "role": "Fighter Assassin",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -6219,7 +6219,7 @@
     "hero_id": 106,
     "name": "Roger",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Roger.png",
-    "role": "Fighter Marksman",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -6429,7 +6429,7 @@
     "hero_id": 109,
     "name": "Selena",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Selena.png",
-    "role": "Assassin Mage",
+    "role": "Assassin",
     "skins": [
       {
         "skin_id": 1,
@@ -6565,7 +6565,7 @@
     "hero_id": 111,
     "name": "Sora",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Sora.png",
-    "role": "Fighter Assassin",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -6653,7 +6653,7 @@
     "hero_id": 113,
     "name": "Suyou",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Suyou.png",
-    "role": "Assassin Fighter",
+    "role": "Assassin",
     "skins": [
       {
         "skin_id": 1,
@@ -6679,7 +6679,7 @@
     "hero_id": 114,
     "name": "Terizla",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Terizla.png",
-    "role": "Fighter Tank",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -7289,7 +7289,7 @@
     "hero_id": 125,
     "name": "Yi Sun-shin",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Yi_Sun-shin.png",
-    "role": "Assassin Marksman",
+    "role": "Assassin",
     "skins": [
       {
         "skin_id": 1,
@@ -7345,7 +7345,7 @@
     "hero_id": 126,
     "name": "Yin",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Yin.png",
-    "role": "Fighter Assassin",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
@@ -7585,7 +7585,7 @@
     "hero_id": 132,
     "name": "Zilong",
     "portrait": "https://raw.githubusercontent.com/RyuDevGFX/version2/main/Version_3.13/IMG/hero_icons/Zilong.png",
-    "role": "Fighter Assassin",
+    "role": "Fighter",
     "skins": [
       {
         "skin_id": 1,
