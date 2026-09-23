@@ -234,14 +234,8 @@
         "download_url": "https://github.com/RyuDevGFX/V53/raw/main/v61/Alice%20New%20S29.zip"
       },
       {
-        "skin_id": 8,
-        "name": "Darknet Temptress",
-        "image": "https://liquipedia.net/commons/images/thumb/b/b3/Alice_Darknet_Temptress_Skin.jpg/475px-Alice_Darknet_Temptress_Skin.jpg",
-        "download_url": "https://github.com/Hiro161123/Mage/raw/main/ALICE%20EPIC.zip"
-      },
-      {
         "skin_id": 9,
-        "name": "Wizardy Teacher (Optimized)",
+        "name": "Wizardy Teacher",
         "image": "https://liquipedia.net/commons/images/thumb/3/3e/Alice_Wizardy_Teacher_Skin.jpg/475px-Alice_Wizardy_Teacher_Skin.jpg",
         "download_url": "https://github.com/RyuDevGFX/updated-skin-v2/raw/main/alice-wizardy-revamped.zip"
       }
