@@ -8,7 +8,7 @@
       {
         "skin_id": 1,
         "name": "Duke of Shards",
-        "image": "https://liquipedia.net/commons/images/thumb/7/76/Aamon_Duke_of_Shards_Skin.jpg/475px-Aamon_Duke_of_Shards_Skin.jpg",
+        "image": "https://liquipedia.net/commons/images/thumb/7/76/Aamon_Duke_off_Shards_Skin.jpg/475px-Aamon_Duke_of_Shards_Skin.jpg",
         "download_url": "https://github.com/XXXRAINIER09/newupsate-skin/raw/main/Aamon%20backup.zip"
       },
       {
@@ -2113,9 +2113,15 @@
       },
       {
         "skin_id": 8,
-        "name": "Atomic Pop Eudora",
+        "name": "Atomic Pop",
         "image": "https://liquipedia.net/commons/images/thumb/b/bc/Eudora_Atomic_Pop_Eudora_Skin.jpg/475px-Eudora_Atomic_Pop_Eudora_Skin.jpg",
-        "download_url": "https://github.com/SourceBMT95/NEWMAGE/raw/main/EUDORA%20ATOMIC.zip"
+        "download_url": "https://raw.githubusercontent.com/ladyyorulady-beep/5/main/Eudora%20Atomic.zip"
+      },
+      {
+        "skin_id": 9,
+        "name": "Midnight's Allure",
+        "image": "https://raw.githubusercontent.com/ladyyorulady-beep/5/main/Hero101510.png",
+        "download_url": "https://raw.githubusercontent.com/ladyyorulady-beep/5/main/Midnight's%20Allure.zip"
       }
     ]
   },
