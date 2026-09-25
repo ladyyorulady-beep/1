@@ -56,12 +56,6 @@
         "download_url": "https://github.com/SourceBMT95/NEWTANK/raw/main/BACKUP%20AKAI.zip"
       },
       {
-        "skin_id": 2,
-        "name": "Summer Party",
-        "image": "https://liquipedia.net/commons/images/thumb/3/35/Akai_Summer_Party_Skin.jpg/475px-Akai_Summer_Party_Skin.jpg",
-        "download_url": ""
-      },
-      {
         "skin_id": 3,
         "name": "Monk",
         "image": "https://liquipedia.net/commons/images/thumb/2/25/Akai_Monk_Skin.jpg/475px-Akai_Monk_Skin.jpg",
@@ -7086,7 +7080,7 @@
       {
         "skin_id": 8,
         "name": "Invokers Frame",
-        "image": "https://liquipedia.net/commons/images/thumb/a/ad/X.Borg_Bumblebee_Skin.jpg/475px-X.Borg_Bumblebee_Skin.jpg",
+        "image": "https://raw.githubusercontent.com/ladyyorulady-beep/5/main/Hero838.png",
         "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/Xborg-Invoker-Frame.zip"
       }
     ]
@@ -7236,7 +7230,7 @@
       {
         "skin_id": 7,
         "name": "Dauntless Battlelord",
-        "image": "https://via.placeholder.com/475x270.png?text=New+Skin",
+        "image": "https://raw.githubusercontent.com/ladyyorulady-beep/5/main/Hero1137.png",
         "download_url": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.8/SKIN_UPCOMING/yin-dauntless-battlelord.zip"
       }
     ]
